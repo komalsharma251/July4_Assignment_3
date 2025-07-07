@@ -61,7 +61,7 @@ The **Portfolio Website Generator** is designed to help developers, freelancers,
 
 ## 👩‍💻 Contributors
 
-- [@your-username](https://github.com/your-username)
+- [@komalsharma251](https://github.com/komalsharma251)
 - [@devbuddy23](https://github.com/devbuddy23)
 - [@codedreamer99](https://github.com/codedreamer99)
 
